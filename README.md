@@ -1,11 +1,3 @@
-# Práctica Formativa N°2
-# Front End
-
-## Segunda parte de mi portfolio, centrándome en desarrollar código HTML y CSS3 a través ## del programa Visual Studio Code.
-
- <img src="images/sample.png" alt="Captura del portfolio" width="400">
-
-
 🐳 Ejecutar el portafolio en Docker
 
 Requisitos
@@ -30,3 +22,13 @@ http://localhost:8080
 Puerto utilizado
 •	Puerto del host: 8080
 •	Puerto del contenedor: 80 (por defecto en Nginx)
+
+# Práctica Formativa N°2
+# Front End
+
+## Segunda parte de mi portfolio, centrándome en desarrollar código HTML y CSS3 a través ## del programa Visual Studio Code.
+
+ <img src="images/sample.png" alt="Captura del portfolio" width="400">
+
+
+
